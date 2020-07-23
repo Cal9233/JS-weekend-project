@@ -1,0 +1,50 @@
+let pokemon = [{
+    "id": 1,
+    "name": {
+        "Bulbasaur"
+    },
+    "type": [
+        "Grass",
+        "Poison"
+    ],
+    "base": {
+        "HP": 20,
+        "Attack": 10,
+        "Defense": 10,
+        "Special": 12,
+        "Speed": 10,
+    }
+},
+     
+    {
+ "id": 4,
+ "name": {
+     "Charmander"
+ },
+ "type": ["Fire"],
+ "base": {
+     "HP": 19,
+     "Attack": 11,
+     "Defense": 10,
+     "Special": 10,
+     "Speed": 12,
+        }
+ },
+
+{
+    "id": 7,
+    "name" {
+        "Squirtle"
+    },
+    "type": ["Water"],
+    "base": {
+        "HP": 20,
+        "Attack": 10,
+        "Defense": 12,
+        "Special": 10,
+        "Speed": 10,
+    }
+}]
+
+
+
